@@ -2,7 +2,7 @@
 
 ## WOW SOME STUFF
 
-*some new stuff on master branch*
+*some new stuff on THE MASTER branch*
 
 Also some new stuff
 
