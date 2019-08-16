@@ -2,7 +2,7 @@
 
 ## WOW SOME STUFF
 
-*some new stuff on master branch*
+*WOW LOREM IPSUM AND STUFF THE BEST*
 
 Also some new stuff
 
